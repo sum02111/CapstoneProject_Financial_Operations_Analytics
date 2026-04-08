@@ -138,19 +138,19 @@ scipy>=1.7.0
 ## 📊 Key Visualizations
 
 ### Revenue Forecasting
-![Revenue Forecast](financial_viz/04_arima_forecast.png)
+![Revenue Forecast](12_revenue_cohorts.png)
 *12-month revenue forecast with 95% confidence intervals*
 
 ### Churn Analysis
-![Churn Analysis](financial_viz/07_churn_analysis.png)
+![Churn Analysis](07_churn_analysis.png)
 *Comprehensive churn analysis by segment and features*
 
 ### Customer Segmentation
-![RFM Segmentation](financial_viz/13_rfm_analysis.png)
+![RFM Segmentation](13_rfm_analysis.png)
 *RFM-based customer segmentation dashboard*
 
 ### Executive Dashboard
-![Executive Dashboard](financial_viz/16_FINAL_EXECUTIVE_DASHBOARD.png)
+![Executive Dashboard](16_FINAL_EXECUTIVE_DASHBOARD.png)
 *Comprehensive executive summary dashboard*
 
 ---
