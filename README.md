@@ -339,6 +339,3 @@ This project template can be adapted for:
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License - see below:
